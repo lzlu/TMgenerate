@@ -1,0 +1,14 @@
+{"file":"fudai.png","frames":{
+"bg1":{"x":0,"y":198,"w":228,"h":22,"offX":0,"offY":0,"sourceW":228,"sourceH":22},
+"bg2":{"x":323,"y":143,"w":326,"h":33,"offX":0,"offY":0,"sourceW":326,"sourceH":33},
+"bg":{"x":0,"y":0,"w":700,"h":131,"offX":0,"offY":0,"sourceW":700,"sourceH":131},
+"b3":{"x":661,"y":187,"w":304,"h":33,"offX":0,"offY":0,"sourceW":304,"sourceH":33},
+"bg4":{"x":712,"y":103,"w":255,"h":19,"offX":0,"offY":0,"sourceW":255,"sourceH":19},
+"bg5":{"x":0,"y":232,"w":228,"h":21,"offX":0,"offY":0,"sourceW":228,"sourceH":21},
+"bg6":{"x":661,"y":143,"w":324,"h":32,"offX":0,"offY":0,"sourceW":324,"sourceH":32},
+"go-btn":{"x":712,"y":0,"w":92,"h":91,"offX":0,"offY":0,"sourceW":92,"sourceH":91},
+"my-btn":{"x":920,"y":0,"w":92,"h":91,"offX":0,"offY":0,"sourceW":92,"sourceH":91},
+"take-btn":{"x":816,"y":0,"w":92,"h":91,"offX":0,"offY":0,"sourceW":92,"sourceH":91},
+"bg7":{"x":545,"y":188,"w":102,"h":32,"offX":0,"offY":10,"sourceW":102,"sourceH":42},
+"bg8":{"x":323,"y":188,"w":210,"h":32,"offX":0,"offY":10,"sourceW":210,"sourceH":42},
+"number":{"x":0,"y":143,"w":311,"h":43,"offX":0,"offY":0,"sourceW":315,"sourceH":44}}}
