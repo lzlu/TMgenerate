@@ -1,6 +1,6 @@
 # TMgenerate
 a tool for textureMerger
-#Usage
+# Usage
 ```
 node index.js -f ./test/fudai.json -i "./test/fudai.png" 
 ```
